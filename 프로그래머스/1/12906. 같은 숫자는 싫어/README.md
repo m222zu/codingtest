@@ -60,5 +60,11 @@
 <p>입출력 예 #1,2<br>
 문제의 예시와 같습니다.</p>
 
+### TIL
+배열 int[] arr = {1,2,3}; 크기가 고정됨
+리스트 List<Integer> list = new ArrayList<>(); 크기가 자동으로 늘어남, add/remove 편함
+
+리스트 != 배열
+문제에서 int[]를 요구하기 때문에 리스트로 처리한 걸 배열로 바꿔서 return 해야한다
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
