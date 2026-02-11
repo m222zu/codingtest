@@ -64,3 +64,9 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+### TIL
+
+<p>Arrays.copyOfRange(array, i-1, j);</p>
+
+<p>여기서는 리스트가 필요없음 -> 크기를 늘리거나 줄이는 동적작업이 없기 때문에</p>
